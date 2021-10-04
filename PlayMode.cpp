@@ -151,7 +151,7 @@ void PlayMode::update(float elapsed) {
 
 	if (current_time < fadeIn_time) current_time += elapsed;
 	text_color = glm::u8vec4(0xf0, 0xf0, 0xf0, 0xf0);
-	text_color.w = std::min((current_time / fadeIn_time), 1.0f) * 255.0f;
+	text_color.w = static_cast<uint8_t>(std::min((current_time / fadeIn_time), 1.0f) * 255.0f);
 
 	if (text == "")
 	{
