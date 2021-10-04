@@ -23,7 +23,7 @@ Harfbuzz example: https://github.com/harfbuzz/harfbuzz-tutorial/blob/master/hell
 Font ttf: https://www.dafont.com/the-lost-paintings.font \
 Mesh background: brunch.blend in the scene folder of game base code \
 Background music: Trois Gymnopédies: Première Gymnopédie \
-Brush sound effect: https://www.youtube.com/watch?v=WNGJMJ7FZfQ 2:00 - 2:10 \
+Brush sound effect: https://www.youtube.com/watch?v=WNGJMJ7FZfQ 2:00 - 2:10
 
 This game was built with [NEST](NEST.md).
 
