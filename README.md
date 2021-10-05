@@ -14,7 +14,7 @@ Screen Shot:
 
 How To Play:
 
-Use key R (Red), B (Blue), Y (Yellow) to choose the color you would like to use and then press SPACE to use the color to draw. You could choose multiple colors at once to create different colors! Based on the colors you choose, you would create different styles of painting! Follow the guidance to decide which color to use. You would get the evaluation for the painting in the final!
+Use key R (Red), B (Blue), Y (Yellow) to choose the color you would like to use and then press SPACE to use the color to draw. You could choose multiple colors at once to create different colors! The color you choose would colors the background. Based on the colors you choose, you would create different styles of painting! Follow the guidance to decide which color to use. You would get the evaluation for the painting in the final!
 
 Sources: 
 
